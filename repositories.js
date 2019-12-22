@@ -1,0 +1,6 @@
+{
+    "repositories":[
+        "ProductRepository",
+        "GodownRepository"
+    ]
+}
